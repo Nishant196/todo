@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .user {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: 15px;
+    text-align: center;
+  }
+/*   
+  table, th, td {
+    border:1px solid black;
+  } */
